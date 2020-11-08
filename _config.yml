@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Benjamin Sepanski's"
+title                    : "Benjamin Sepanski"
 title_separator          : "-"
 name                     : &name "Benjamin Sepanski"
 description              : &description "Ph.D. Student at UTCS in the UToPiA group"
