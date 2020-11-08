@@ -92,8 +92,8 @@ author:
                       and
                       <a href=\"https://www.cs.utexas.edu/~bornholt\">Dr. James Bornholt</a>
                       in the
-                      <a href=\"https://utopia.cs.utexas.edu\">UToPiA group</a>."
-  location         : "<a href=\"https://www.cs.utexas.edu\">Computer Science</a>" #"<a href=\"https://www.cs.utexas.edu/\">Computer Science at UT</a>"
+                      <a href=\"/utopia.cs.utexas.edu\">UToPiA group</a>."
+  location         : #
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=5GmcgnUAAAAJ&hl=en"
