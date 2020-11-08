@@ -86,8 +86,12 @@ analytics:
 author:
   name             : "Benjamin Sepanski"
   avatar           : "Sepanski_2019_reduce_size.jpg"
-  bio              : "I am a first-year Ph.D. Student in the Computer Science Department at UT Austin. I am researching program synthesis with Dr. I\u015Fil Dillig and Dr. James Bornholt in the UToPiA group."
-  location         : "<a href=\"https:https://www.cs.utexas.edu/\">Computer Science at UT</a>"
+  bio              : >
+      I am a first-year Ph.D. Student in the Computer Science Department at UT Austin.
+      I am researching program synthesis with <a href=\"https://www.cs.utexas.edu/~isil/\">Dr. I\u015Fil Dillig</a>
+      and <a /href=\"https://www.cs.utexas.edu/~bornholt/\">Dr. James Bornholt</a> in the
+      <a /href=\"https://http://utopia.cs.utexas.edu/\">UToPiA group</a>.
+  location         : "<a href=\"https://www.cs.utexas.edu/\">Computer Science at UT</a>"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=5GmcgnUAAAAJ&hl=en"
