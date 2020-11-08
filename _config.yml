@@ -8,12 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Benjamin Sepanski's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Benjamin Sepanski"
+description              : &description "Ph.D. Student at UTCS in the UToPiA group"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -156,7 +155,7 @@ analytics:
 author:
   name             : "Benjamin Sepanski"
   avatar           : "Sepanski_2019_reduce_size.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a first-year Ph.D. Student in the Computer Science Department at UT Austin. I am researching program synthesis with Dr. I\U197198il Dillig and Dr. James Bornholt in the UToPiA group."
   location         : "University of Texas at Austin"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
