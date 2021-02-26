@@ -16,4 +16,4 @@ Several new explicit formulas for certain augmented Hilbert Series measuring max
 
 # Details
 
-The presented work is published in a peer-reviewed paper: [Augmented Hilbert series of numerical semigroups (with Christopher O’Neill, Jeske Glenn, and Vadim Ponomarenko) Integers 19 (June 3, 2019), #A32](../publication/2019-06-03-Augmented-Hilbert-series-of-numerical-semigroups).
+The presented work is published in a peer-reviewed paper: [Augmented Hilbert series of numerical semigroups (with Christopher O’Neill, Jeske Glenn, and Vadim Ponomarenko) Integers 19 (June 3, 2019), #A32](../publications/2019-06-03-Augmented-Hilbert-series-of-numerical-semigroups).
