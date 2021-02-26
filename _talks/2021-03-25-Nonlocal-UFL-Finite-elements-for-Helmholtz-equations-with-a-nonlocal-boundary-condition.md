@@ -8,9 +8,9 @@ date: 2021-03-25
 location: "Virtual Presentation through the University of Cambridge in Cambridge, England"
 ---
 
-Presentation at the [FEniCS 2021 meeting](https://fenics2021.com/). Abstract and presentation time linked [here](https://fenics2021.com/talks/sepanski.html).
+Presentation of my undergraduate research at the [FEniCS 2021 meeting](https://fenics2021.com/).
 
-Presented my work as an undergraduate at the [Mathematics Department at Baylor University](https://www.baylor.edu/math/).  This work was joint with [Dr. Robert Kirby](https://sites.baylor.edu/robert_kirby/) at the Mathematics Department of Baylor University and [Dr. Andreas Klo\"eckner](https://mathema.tician.de/aboutme/).
+Abstract and presentation time linked [here](https://fenics2021.com/talks/sepanski.html). Presented my work as an undergraduate at the [Mathematics Department at Baylor University](https://www.baylor.edu/math/).  This work was joint with [Dr. Robert Kirby](https://sites.baylor.edu/robert_kirby/) at the Mathematics Department of Baylor University and [Dr. Andreas Klo\"eckner](https://mathema.tician.de/aboutme/).
 
 # Abstract
 
