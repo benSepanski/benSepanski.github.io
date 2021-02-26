@@ -1,7 +1,7 @@
 ---
 title: "Augmented Hilbert series of numerical semigroups"
 collection: publications
-permalink: /publication/2019-06-03-Augmented-Hilbert-series-of-numerical-semigroups
+permalink: /publications/2019-06-03-Augmented-Hilbert-series-of-numerical-semigroups
 excerpt: 'Several new explicit formulas for certain augmented Hilbert Series measuring maximal and minimal factorization lengths for all numerical semigroups.'
 date: 2010-06-03
 venue: 'Integers'
