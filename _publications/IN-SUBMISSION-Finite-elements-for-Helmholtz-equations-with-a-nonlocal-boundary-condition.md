@@ -3,8 +3,8 @@ title: "Finite Elements for Helmholtz equations with a nonlocal boundary conditi
 collection: publications
 permalink: /publication/IN-SUBMISSION-Finite-Elements-for-Helmholtz-equations-with-a-nonlocal-boundary-condition
 excerpt: 'A new nonlocal boundary condition for exterior Helmholtz problems along with the software infrastructure to express these boundary conditions in Unified Form Language'
-# TODO date: 2019-06-03
-# TODO venue: 'Integers'
+date: 2021-01-01
+venue: 'IN SUBMISSION'
 citation: 'Kirby, Robert C. and Klo\"eckner, Andreas and Sepanski, Benjamin. &quot;Finite elements for Helmholtz equations with a nonlocal boundary condition.&quot; <i>In Submission</i>.'
 ---
 
