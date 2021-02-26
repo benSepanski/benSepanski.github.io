@@ -5,7 +5,6 @@ permalink: /publication/2019-06-03-Augmented-Hilbert-series-of-numerical-semigro
 excerpt: 'Several new explicit formulas for certain augmented Hilbert Series measuring maximal and minimal factorization lengths for all numerical semigroups.'
 date: 2019-06-03
 venue: 'Integers'
-paperurl: '[download paper](../files/2019-06-03-Augmented-Hilbert-series-of-numerical-semigroups.pdf)'
 citation: 'Glenn, Jeske and O''Neill Christopher and Ponomarenko, Vadim and Sepanski, Benjamin (June 3, 2019). &quot;Augmented Hilbert series of numerical semigroups.&quot; <i>Integers 19 #A32<i>.'
 ---
 
