@@ -8,7 +8,7 @@ venue: 'IN SUBMISSION'
 citation: 'Kirby, Robert C. and Klo\"eckner, Andreas and Sepanski, Benjamin. &quot;Finite elements for Helmholtz equations with a nonlocal boundary condition.&quot; <i>In Submission</i>.'
 ---
 
-In submission. Paper is currently hosted on arxiv [here](https://arxiv.org/abs/2009.08493). A more recent edition is available [here](../files/IN-SUBMISSION-Finite-Elements-for-Helmholtz-equations-with-a-nonlocal-boundary-condition).
+In submission. Paper is currently hosted on arxiv [here](https://arxiv.org/abs/2009.08493). A more recent edition is available [here](../files/IN-SUBMISSION-Finite-elements-for-Helmholtz-equations-with-a-nonlocal-boundary-condition.pdf).
 
 # Abstract
 
