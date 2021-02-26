@@ -10,7 +10,7 @@ location: "Virtual Presentation through the University of Cambridge in Cambridge
 
 Presentation of my undergraduate research at the [FEniCS 2021 meeting](https://fenics2021.com/).
 
-Abstract and presentation time linked [here](https://fenics2021.com/talks/sepanski.html). Presented my work as an undergraduate at the [Mathematics Department at Baylor University](https://www.baylor.edu/math/).  This work was joint with [Dr. Robert Kirby](https://sites.baylor.edu/robert_kirby/) at the Mathematics Department of Baylor University and [Dr. Andreas Klo\"eckner](https://mathema.tician.de/aboutme/).
+Abstract and presentation time linked [here](https://fenics2021.com/talks/sepanski.html). Presented my work as an undergraduate at the [Mathematics Department at Baylor University](https://www.baylor.edu/math/).  This work was joint with [Dr. Robert Kirby](https://sites.baylor.edu/robert_kirby/) at the Mathematics Department of Baylor University and [Dr. Andreas Kl&ouml;ckner](https://mathema.tician.de/aboutme/).
 
 # Abstract
 
@@ -18,4 +18,4 @@ Numerical resolution of exterior Helmholtz problems require some approach to dom
 
 # Details
 
-Many of the ideas in this talk come from a paper in submission: [Kirby, Robert C. and Klo\"eckner, Andreas and Sepanski, Benjamin. &quot;Finite elements for Helmholtz equations with a nonlocal boundary condition.&quot; <i>In Submission</i>.](../publication/IN-SUBMISSION-Finite-elements-for-Helmholtz-equations-with-a-nonlocal-boundary-condition).
+Many of the ideas in this talk come from a paper in submission: [Kirby, Robert C. and Kl&ouml;ckner, Andreas and Sepanski, Benjamin. &quot;Finite elements for Helmholtz equations with a nonlocal boundary condition.&quot; <i>In Submission</i>.](../publication/IN-SUBMISSION-Finite-elements-for-Helmholtz-equations-with-a-nonlocal-boundary-condition).
