@@ -18,4 +18,4 @@ Numerical resolution of exterior Helmholtz problems require some approach to dom
 
 # Details
 
-TODO
+Many of the ideas in this talk come from a paper in submission: [Kirby, Robert C. and Klo\"eckner, Andreas and Sepanski, Benjamin. &quot;Finite elements for Helmholtz equations with a nonlocal boundary condition.&quot; <i>In Submission</i>.](../publication/IN-SUBMISSION-Finite-elements-for-Helmholtz-equations-with-a-nonlocal-boundary-condition).

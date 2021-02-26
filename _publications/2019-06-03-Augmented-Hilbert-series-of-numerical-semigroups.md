@@ -12,6 +12,10 @@ Several new explicit formulas for certain augmented Hilbert Series measuring max
 
 Download paper [here](../files/2019-06-03-Augmented-Hilbert-series-of-numerical-semigroups.pdf) as published in [Volume 19 of Integers](http://math.colgate.edu/~integers/vol19.html).
 
+# Presentations
+
+I presented this research in a [talk at the 2018 Joint Mathematics Meetings](../talks/2018-01-13-Augmented-Hilbert-series-of-numerical-semigroups).
+
 # Bibtex
 
 ```
