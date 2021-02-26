@@ -7,5 +7,6 @@ redirect_from:
   - /resume
 ---
 
-* [CV pdf](../cv/vita.pdf)
-    - Created using [treyhunner's template](https://github.com/treyhunner/resume/blob/master/resume.cls).
+Click [here](../cv/vita.pdf) to download my vita.
+
+This vita was created using on [treyhunner's resume.cls](https://github.com/treyhunner/resume/blob/master/resume.cls).
