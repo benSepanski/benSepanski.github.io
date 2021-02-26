@@ -3,11 +3,12 @@ title: "Augmented Hilbert series of numerical semigroups"
 collection: publications
 permalink: /publications/2019-06-03-Augmented-Hilbert-series-of-numerical-semigroups
 excerpt: 'Several new explicit formulas for certain augmented Hilbert Series measuring maximal and minimal factorization lengths for all numerical semigroups.'
-date: 2010-06-03
+date: 2019-06-03
 venue: 'Integers'
 paperurl: 'http://math.colgate.edu/~integers/t32/t32.pdf'
 citation: 'Jeske Glenn, Christopher O'Neill, Vadim Ponomarenko, Benjamin Sepanski (2019). &quot;Augmented Hilbert series of numerical semigroups.&quot; <i>Integers</i>. Integers 19 (June 3, 2019), #A32.'
 ---
+
 Several new explicit formulas for certain augmented Hilbert Series measuring maximal and minimal factorization lengths for all numerical semigroups.
 
 [Download paper here](http://math.colgate.edu/~integers/t32/t32.pdf) from [Volume 19 of Integers](http://math.colgate.edu/~integers/vol19.html).
