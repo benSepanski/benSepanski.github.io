@@ -2,16 +2,16 @@
 title: "Augmented Hilbert series of numerical semigroups"
 collection: publications
 permalink: /publication/2019-06-03-Augmented-Hilbert-series-of-numerical-semigroups
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Several new explicit formulas for certain augmented Hilbert Series measuring maximal and minimal factorization lengths for all numerical semigroups.'
 date: 2019-06-03
 venue: 'Integers'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: '../files/2019-06-03-Augmented-Hilbert-series-of-numerical-semigroups.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 Several new explicit formulas for certain augmented Hilbert Series measuring maximal and minimal factorization lengths for all numerical semigroups.
 
-[Download paper here](../files/2019-06-03-Augmented-Hilbert-series-of-numerical-semigroups) as published in [Volume 19 of Integers](http://math.colgate.edu/~integers/vol19.html).
+Download paper [here](../files/2019-06-03-Augmented-Hilbert-series-of-numerical-semigroups.pdf) as published in [Volume 19 of Integers](http://math.colgate.edu/~integers/vol19.html).
 
 # Bibtex
 
