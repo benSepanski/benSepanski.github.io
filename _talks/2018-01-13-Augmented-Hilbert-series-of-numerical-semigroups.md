@@ -14,6 +14,6 @@ Presented my research from the [2017 San Diego State University Research Experie
 
 Several new explicit formulas for certain augmented Hilbert Series measuring maximal and minimal factorization lengths for all numerical semigroups are presented. A weighted type of Euler characteristic of an associated simplicial complex is a key element of some of these formulas.  
 
-# Details
+# Papers
 
 The presented work is published in a peer-reviewed paper: [Augmented Hilbert series of numerical semigroups (with Christopher O’Neill, Jeske Glenn, and Vadim Ponomarenko) Integers 19 (June 3, 2019), #A32](../publication/2019-06-03-Augmented-Hilbert-series-of-numerical-semigroups).
