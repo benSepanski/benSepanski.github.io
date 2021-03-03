@@ -10,8 +10,8 @@ redirect_from:
 
 ---
 > SITE STILL UNDER CONSTRUCTION
-> Please bear with me, the teaching and portfolio sections of this site
-> are still under construction.
+> Please bear with me, the portfolio section of this site
+> is still under construction.
 ---
 
 Hello all! I am a first-year Ph.D. student at the [Computer Science Department at UT Austin](https://cs.utexas.edu) studying
