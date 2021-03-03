@@ -1,6 +1,6 @@
 ---
 title: "Meshmode interoperability with firedrake"
-excerpt: "Mesh and function conversion to and from the meshmode and firedrake libraries <br/><img src='../files/portfolio/meshmode-interoperability-with-firedrake/mesh_near_gamma.png'>"
+excerpt: "Mesh and function conversion to and from the meshmode and firedrake libraries <br/><img src='../files/portfolio/2020-meshmode-interoperability-with-firedrake/mesh_near_gamma.png'>"
 collection: portfolio
 ---
 
