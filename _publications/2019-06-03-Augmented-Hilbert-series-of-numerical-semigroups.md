@@ -10,7 +10,7 @@ citation: 'Glenn, Jeske and O''Neill Christopher and Ponomarenko, Vadim and Sepa
 
 Several new explicit formulas for certain augmented Hilbert Series measuring maximal and minimal factorization lengths for all numerical semigroups.
 
-Download paper [here](../files/2019-06-03-Augmented-Hilbert-series-of-numerical-semigroups.pdf) as published in [Volume 19 of Integers](http://math.colgate.edu/~integers/vol19.html).
+Download paper [here](../files/publications/2019-06-03-Augmented-Hilbert-series-of-numerical-semigroups.pdf) as published in [Volume 19 of Integers](http://math.colgate.edu/~integers/vol19.html).
 
 # Presentations
 
