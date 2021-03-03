@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
----
-> SITE STILL UNDER CONSTRUCTION
-> Please bear with me, the portfolio section of this site
-> is still under construction.
----
-
 Hello all! I am a first-year Ph.D. student at the [Computer Science Department at UT Austin](https://cs.utexas.edu) studying
 in the [UToPiA group](https://utopia.cs.utexas.edu) under [Dr. Işil Dillig](https://cs.utexas.edu/~isil) and
 [Dr. James Bornholt](https://cs.utexas.edu/~bornholt).
