@@ -1,0 +1,42 @@
+digraph G {
+  ordering="out";
+
+  plus[label="+"];
+  {rank=same;
+  shift[label="<<"];
+  times[label="*"];
+  one[label="1"];
+  }
+  {rank=same;
+  rdi[label="%rdi"];
+  twoShift[label="2"];
+  four[label="4"];
+  exp[label="**"];
+  }
+  twoL[label="2"];
+  twoR[label="2"];
+  
+  plus -> times;
+  
+  # Make sure to get right order with dummy node
+  dummy1[style="invis"];
+  dummy1 -> twoShift[style="invis"];
+  dummy1 -> four[style="invis"];
+  
+  shift -> rdi;
+  shift -> twoShift;
+  
+  plus -> one;
+  times -> rdi;
+  times -> four;
+  
+  exp -> twoL;
+  exp -> twoR;
+  
+  subgraph Equivalence {
+    edge[dir=none, color=blue, style="dashed"];
+    shift -> times;
+    four -> exp;
+  }
+
+}
