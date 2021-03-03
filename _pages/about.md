@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Please bear with me..., this website is still under construction!
+---
+> SITE STILL UNDER CONSTRUCTION
+> Please bear with me, the teaching and portfolio sections of this site
+> are still under construction.
+---
 
 Hello all! I am a first-year Ph.D. student at the [Computer Science Department at UT Austin](https://cs.utexas.edu) studying
 in the [UToPiA group](https://utopia.cs.utexas.edu) under [Dr. Işil Dillig](https://cs.utexas.edu/~isil) and
