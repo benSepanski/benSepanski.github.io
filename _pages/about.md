@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hello all! I am a first-year Ph.D. student at the [Computer Science Department at UT Austin](https://cs.utexas.edu) studying
-in the [UToPiA group](https://utopia.cs.utexas.edu) under [Dr. Işil Dillig](https://cs.utexas.edu/~isil) and
+in the [UToPiA group](http://utopia.cs.utexas.edu) under [Dr. Işil Dillig](https://cs.utexas.edu/~isil) and
 [Dr. James Bornholt](https://cs.utexas.edu/~bornholt).
 I am also a first-year fellow of the [Department of Energy Computational Science Graduate Fellowship](https://krellinst.org/csgf).
 My research revolves around using program synthesis and verification problems to
