@@ -1,5 +1,5 @@
 ---
-title: "UPCOMING: Nonlocal UFL: Finite elements for Helmholtz equations with a nonlocal boundary condition"
+title: "Nonlocal UFL: Finite elements for Helmholtz equations with a nonlocal boundary condition"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-03-25-Nonlocal-UFL-Finite-elements-for-Helmholtz-equations-with-a-nonlocal-boundary-condition
@@ -8,9 +8,9 @@ date: 2021-03-25
 location: "Virtual Presentation through the University of Cambridge in Cambridge, England"
 ---
 
-Presentation of my undergraduate research at the [FEniCS 2021 meeting](https://fenics2021.com/).
+Presentation of my undergraduate research at the [http://mscroggs.github.io/fenics2021](https://fenics2021.com/).
 
-Abstract and presentation time linked [here](https://fenics2021.com/talks/sepanski.html). Presented my work as an undergraduate at the [Mathematics Department at Baylor University](https://www.baylor.edu/math/).  This work was joint with [Dr. Robert Kirby](https://sites.baylor.edu/robert_kirby/) at the Mathematics Department of Baylor University and [Dr. Andreas Kl&ouml;ckner](https://mathema.tician.de/aboutme/).
+Abstract and presentation time linked [here](http://mscroggs.github.io/fenics2021/talks/sepanski.html). Presented my work as an undergraduate at the [Mathematics Department at Baylor University](https://www.baylor.edu/math/).  This work was joint with [Dr. Robert Kirby](https://sites.baylor.edu/robert_kirby/) at the Mathematics Department of Baylor University and [Dr. Andreas Kl&ouml;ckner](https://mathema.tician.de/aboutme/).
 
 # Abstract
 
