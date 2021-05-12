@@ -30,15 +30,7 @@ number = {3},
 pages = {A1671-A1691},
 year = {2021},
 doi = {10.1137/20M1368100},
-
-URL = { 
-        https://doi.org/10.1137/20M1368100
-    
-},
-eprint = { 
-        https://doi.org/10.1137/20M1368100
-    
-}
-
+URL = {https://doi.org/10.1137/20M1368100},
+eprint = {https://doi.org/10.1137/20M1368100}
 }
 ```
