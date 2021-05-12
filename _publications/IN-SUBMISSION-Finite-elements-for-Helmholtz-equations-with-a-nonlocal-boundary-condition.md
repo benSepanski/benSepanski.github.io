@@ -3,12 +3,12 @@ title: "Finite Elements for Helmholtz equations with a nonlocal boundary conditi
 collection: publications
 permalink: /publication/IN-SUBMISSION-Finite-elements-for-Helmholtz-equations-with-a-nonlocal-boundary-condition
 excerpt: 'A new nonlocal boundary condition for exterior Helmholtz problems along with the software infrastructure to express these boundary conditions in Unified Form Language'
-date: 2021-01-01
-venue: 'IN SUBMISSION'
+date: 2021-05-10
+venue: 'SIAM Journal on Scientific Computing'
 citation: 'Kirby, Robert C. and Kl&ouml;ckner, Andreas and Sepanski, Benjamin. &quot;Finite elements for Helmholtz equations with a nonlocal boundary condition.&quot; <i>In Submission</i>.'
 ---
 
-In submission. Paper is currently hosted on arxiv [here](https://arxiv.org/abs/2009.08493). A more recent edition is available [here](../files/publications/IN-SUBMISSION-Finite-elements-for-Helmholtz-equations-with-a-nonlocal-boundary-condition.pdf).
+Download paper from the SISC website [here](https://epubs.siam.org/doi/abs/10.1137/20M1368100).
 
 # Abstract
 
@@ -16,17 +16,29 @@ Numerical resolution of exterior Helmholtz problems requires some approach to do
 
 # Presentations
 
-I will present ideas from this paper in an [upcoming talk](../talks/2021-03-25-Nonlocal-UFL-Finite-elements-for-Helmholtz-equations-with-a-nonlocal-boundary-condition) at [FEniCS 2021](https://fenics2021.com/).
+I presented ideas from this paper in a [talk](../talks/2021-03-25-Nonlocal-UFL-Finite-elements-for-Helmholtz-equations-with-a-nonlocal-boundary-condition) at [FEniCS 2021](https://fenics2021.com/).
 
 # Bibtex
 
 ```
-@misc{kirby2020finite,
-      title={Finite elements for Helmholtz equations with a nonlocal boundary condition}, 
-      author={Robert C. Kirby and Andreas Klöckner and Ben Sepanski},
-      year={2020},
-      eprint={2009.08493},
-      archivePrefix={arXiv},
-      primaryClass={math.NA}
+@article{kirbyKlocknerSepanski2021,
+author = {Kirby, Robert C. and Klöckner, Andreas and Sepanski, Ben},
+title = {Finite Elements for Helmholtz Equations with a Nonlocal Boundary Condition},
+journal = {SIAM Journal on Scientific Computing},
+volume = {43},
+number = {3},
+pages = {A1671-A1691},
+year = {2021},
+doi = {10.1137/20M1368100},
+
+URL = { 
+        https://doi.org/10.1137/20M1368100
+    
+},
+eprint = { 
+        https://doi.org/10.1137/20M1368100
+    
+}
+
 }
 ```
