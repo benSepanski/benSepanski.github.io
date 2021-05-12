@@ -1,7 +1,7 @@
 ---
 title: "Finite Elements for Helmholtz equations with a nonlocal boundary condition"
 collection: publications
-permalink: /publication/IN-SUBMISSION-Finite-elements-for-Helmholtz-equations-with-a-nonlocal-boundary-condition
+permalink: /publication/2021-05-10-Finite-elements-for-Helmholtz-equations-with-a-nonlocal-boundary-condition
 excerpt: 'A new nonlocal boundary condition for exterior Helmholtz problems along with the software infrastructure to express these boundary conditions in Unified Form Language'
 date: 2021-05-10
 venue: 'SIAM Journal on Scientific Computing'
