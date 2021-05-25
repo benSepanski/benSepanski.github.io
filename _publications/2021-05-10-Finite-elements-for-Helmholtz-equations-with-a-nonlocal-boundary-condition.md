@@ -5,7 +5,7 @@ permalink: /publication/2021-05-10-Finite-elements-for-Helmholtz-equations-with-
 excerpt: 'A new nonlocal boundary condition for exterior Helmholtz problems along with the software infrastructure to express these boundary conditions in Unified Form Language'
 date: 2021-05-10
 venue: 'SIAM Journal on Scientific Computing'
-citation: 'Kirby, Robert C. and Kl&ouml;ckner, Andreas and Sepanski, Benjamin.(2021). &quot;Finite Elements for Helmholtz Equations with a Nonlocal Boundary Condition.&quot; <i>SIAM Journal on Scientific Computing, 43(3), A1671-A1691<i/>.'
+citation: 'Kirby, Robert C. and Kl&ouml;ckner, Andreas and Sepanski, Benjamin.(2021). &quot;Finite Elements for Helmholtz Equations with a Nonlocal Boundary Condition.&quot; <i>SIAM Journal on Scientific Computing, 43(3), A1671-A1691</i>.'
 ---
 
 Download paper from the SISC website [here](https://epubs.siam.org/doi/abs/10.1137/20M1368100).
