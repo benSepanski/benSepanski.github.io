@@ -86,11 +86,9 @@ analytics:
 author:
   name             : "Benjamin Sepanski"
   avatar           : "Sepanski_2019_reduce_size.jpg"
-  bio              : "I am a first-year Ph.D. Student in the Computer Science Department at UT Austin.
+  bio              : "I am a second-year Ph.D. Student in the Computer Science Department at UT Austin.
                       I am researching program synthesis with
                       <a href=\"https://www.cs.utexas.edu/~isil\">Dr. I\u015Fil Dillig</a>
-                      and
-                      <a href=\"https://www.cs.utexas.edu/~bornholt\">Dr. James Bornholt</a>
                       in the
                       <a href=\"/utopia.cs.utexas.edu\">UToPiA group</a>."
   location         : #
