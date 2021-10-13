@@ -1,4 +1,13 @@
-# Deploying and Debugging Remotely with Intellij
+---
+title: 'Deploying and Debugging Remotely with Intellij'
+date: 2021-10-13
+permalink: /posts/2021/10/13/Deploying-and-Debugging-Remotely-with-Intellij/
+tags:
+  - Intellij
+  - Debug
+  - Deploy
+  - Remote
+---
 
 In this blog post I will show you how to sync an [Intellij IDEA](https://www.jetbrains.com/idea/) project with a remote server (called *deploying* the project to a server), and how to debug remote runs of that project. This tutorial only looks at Java projects.
 
