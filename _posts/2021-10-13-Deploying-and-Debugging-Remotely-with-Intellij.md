@@ -98,14 +98,14 @@ Look over some options by going to `Tool` `>` `Deployment` `>` `Options`
 ![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/10-Options.png)
 
 - [x] Delete target items when source ones do not exist
-    - This is useful to avoid confusing errors where you've deleted on locally, but Intellij does not delete the remote. I'd recommend setting this as long as you're not using the remote to backup files.
+    - This is useful to avoid confusing errors where you've deleted a file locally, but Intellij does not delete the remote copy. I'd recommend setting this as long as you're not using the remote to backup files.
 - [x] Create empty directories
-    - Have intellij create empty directories when you upload. This is helpful if you're outputting things to an empty directory, and want it to be created on the remote when you create it locally.
+    - Have Intellij create empty directories when you upload. This is helpful if you're outputting things to an empty directory and want it to be created on the remote when you create it locally.
 
 
-You can also exclude items by names/patterns at this menu. Another place you can exclude specific paths for specific remotes is by clicking `Tools` `>` `Deployment` `>` `Configuration` and select "Excluded Paths".
+You can also exclude items by names/patterns at this menu. Another place you can exclude specific paths for specific remotes is by clicking `Tools` `>` `Deployment` `>` `Configuration` and selecting "Excluded Paths".
 
-Note that you can create multiple remotes by repeating this process! Intellij only automatically uploads changes to the default, all other uploads, downloads, and syncs have to be manual.
+Note that you can create multiple remotes by repeating this process! Intellij only automatically uploads changes to the default. All other uploads, downloads, and syncs have to be manual.
 
 ## Remote Debug
 
@@ -119,9 +119,9 @@ Click the `+` on the top left, and select "Remote JVM Debug".
 
 ![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/12-Remote-JVM-Debug.png)
 
-Name the configuration whatever you want. Enter the host-name, and whatever port you want to use to connect. If you have several maven projects/sub-projects, make sure to select the correct module classpath!
+Name the configuration whatever you want. Enter the host name and whatever port you want to use to connect. If you have several maven projects/sub-projects, make sure to select the correct module classpath!
 
-I usually use port 8000, but all that matters is that TCP connections can be made from your local IP address to your remote at that port (you can use [this guide](https://www.acronis.com/en-us/articles/telnet/) to figure out which ports are open).
+I usually use port 8000, but all that matters is that TCP connections can be made from your local IP address to your remote at that port. If you have issues, you can use [this guide](https://www.acronis.com/en-us/articles/telnet/) to figure out which ports are open.
 
 ![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/13-Debug-Setup.png)
 
@@ -143,9 +143,9 @@ Next, you'll want to copy the "Command line arguments for remote JVM." You're go
  ```
  Listening for transport dt_socket at address: 8000
  ```
- Now open up your local Intellij and run the configuration you just created! It should connect, and start debugging like normal.
+ Now go back to the local Intellij instance and run the configuration you just created! It should connect and start debugging like normal.
  
- Note that all terminal output from your application will appear on your remote terminal, not on the local Intellij terminal. However, the Debugger tab will work just like normal.
+ Note that all terminal output from your application will appear on your remote terminal, not on the local Intellij terminal. However, the Debugger tab will work as usual.
 
 
 ## Common Pitfalls
@@ -153,7 +153,7 @@ Next, you'll want to copy the "Command line arguments for remote JVM." You're go
 I hope this tutorial was helpful for you! Before I let you go, I'd like to warn you of a couple pitfalls that I commonly ran into when I first started using this setup.
 
 1. Intellij only syncs changes made by saving/deleting files. If you switch git branches, you'll need to manually sync with the remote.
-2. Sometimes, the Intellij remote debug application continues running after the remote application has stopped. Make sure to manually stop it locally to avoid dead processes clogging up your remote machine. If necessary, use `htop` to check for and kill these processes.
+2. Sometimes, the Intellij remote debug application continues running after the remote application has stopped. Make sure to manually stop it locally to avoid processes clogging up your remote machine. If necessary, use `htop` on the remote to check for and kill these processes.
 3. If you use multiple remote deployments, only one can be the default at a time. You'll have to manually sync other changes.
 4. If you click `Tools` `>` `Deployment` `>` `Upload to ...` (resp. `Download`, `Sync`) it will only `Upload` (resp. `Download`, `Sync`) the file which is currently open. To `Upload` (resp. `Download`, `Sync`) the entire project, you need to right-click on the directory from the `Project` tab.
 
