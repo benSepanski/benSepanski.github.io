@@ -49,11 +49,11 @@ Now we're ready to set up for deployment!
 
 First, open the deployment configuration by going to `Tools` `>` `Deployment` `>` `Configuration`
 
-![](../files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/03-Configuration-Menu.png)
+![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/03-Configuration-Menu.png)
 
 Click `+`, and add an SFTP server. Choose whatever name you want, it doesn't matter.
 
-![](../files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/04-Add-SFTP.png)
+![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/04-Add-SFTP.png)
 
 On your remote, pick some path where you want your remote to be rooted. I'm going to use `~/intellijRemotes/<projectName>`.
 
@@ -63,26 +63,26 @@ myRemoteUserName@remote> mkdir ~/intellijRemotes/IntellijRemoteExample
 
 Then, enter the path into the "Root path" entry of your server.
 
-![](../files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/05-Set-Root.png)
+![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/05-Set-Root.png)
 
 If you already have an SSH configuration setup on Intellij for your desired server, go ahead and select. Otherwise, let's set one up!
 Click the three dots next to SSH configuration to get started:
 
-![](../files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/06-Three-Dots.png)
+![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/06-Three-Dots.png)
 
 Enter the host, your remote username, and select your authentication status. I'm going to assume you're using a password-protected private key in `~/.ssh/id_rsa`. Only change the port from 22 (or set the local port) if you know what you're doing! 
 
 Once you're done, press "Test Connection" to make sure it works.
 
-![](../files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/07-SSH-Config.png)
+![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/07-SSH-Config.png)
 
 Press OK, then make sure your remote is in bold on the left menu. If it is not, select it and press the check mark to make it the default configuration.
 
-![](../files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/08-Set-Default.png)
+![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/08-Set-Default.png)
 
 Finally, we need to set up the file mappings. Click on "Mappings", and copy the path to the deployed project on your remote.
 
-![](../files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/09-Mapping.png)
+![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/09-Mapping.png)
 
 Press OK, and now you're good to go!
 What exactly does that mean?
@@ -95,7 +95,7 @@ What exactly does that mean?
 
 Look over some options by going to `Tool` `>` `Deployment` `>` `Options`
 
-![](../files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/10-Options)
+![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/10-Options)
 
 - [x] Delete target items when source ones do not exist
     - This is useful to avoid confusing errors where you've deleted on locally, but Intellij does not delete the remote. I'd recommend setting this as long as you're not using the remote to backup files.
@@ -113,21 +113,21 @@ Intellij's debugger is one of its most powerful features. There's no reason you 
 
 First, we're going to build a [configuration](https://www.jetbrains.com/help/idea/run-debug-configuration.html) that will help us connect to our remote application. Start by clicking "Add configuration."
 
-![](../files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/11-Configuration.png)
+![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/11-Configuration.png)
 
 Click the `+` on the top left, and select "Remote JVM Debug".
 
-![](../files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/12-Remote-JVM-Debug.png)
+![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/12-Remote-JVM-Debug.png)
 
 Name the configuration whatever you want. Enter the host-name, and whatever port you want to use to connect. If you have several maven projects/sub-projects, make sure to select the correct module classpath!
 
 I usually use port 8000, but all that matters is that TCP connections can be made from your local IP address to your remote at that port (you can use [this guide](https://www.acronis.com/en-us/articles/telnet/) to figure out which ports are open).
 
-![](../files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/13-Debug-Setup.png)
+![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/13-Debug-Setup.png)
 
 Next, you'll want to copy the "Command line arguments for remote JVM." You're going to need these arguments later.
 
-![](../files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/14-JVM-Args.png)
+![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/14-JVM-Args.png)
 
  Once you're done, press "OK".
  

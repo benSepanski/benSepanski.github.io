@@ -53,23 +53,23 @@ Denali's algorithm only "enumerates" candidate programs which it can prove are e
 
 An E-Graph is used to represent expressions. For instance, a literal 4 or a register value *%rdi* is represented as a node with no children.
 
-![](../files/posts/2021-03-10-Denali-a-goal-directed-superoptimizer/egraph-rdi-and-4.svg?token=AIEHSZA5TESJ3BC6LBD6FELAGFZ3O)
+![](/files/posts/2021-03-10-Denali-a-goal-directed-superoptimizer/egraph-rdi-and-4.svg?token=AIEHSZA5TESJ3BC6LBD6FELAGFZ3O)
 
 The expression *%rdi \* 4* is represented as a node '*\**' whose first child represents *%rdi* and whose second child represents 4.
 
-![](../files/posts/2021-03-10-Denali-a-goal-directed-superoptimizer/egraph-rdi-times-4.svg?token=AIEHSZACZTJLTY7GVZSQQUDAGF2EM)
+![](/files/posts/2021-03-10-Denali-a-goal-directed-superoptimizer/egraph-rdi-times-4.svg?token=AIEHSZACZTJLTY7GVZSQQUDAGF2EM)
 
 Bigger expressions are represented just like you would think. For instance, the expression *%rdi * 4 + 1* would be represented as
 
-![](../files/posts/2021-03-10-Denali-a-goal-directed-superoptimizer/egraph-rdi-times-4-plus-1.svg?token=AIEHSZH4LPUKAMS5CIODF5TAGF3AO)
+![](/files/posts/2021-03-10-Denali-a-goal-directed-superoptimizer/egraph-rdi-times-4-plus-1.svg?token=AIEHSZH4LPUKAMS5CIODF5TAGF3AO)
 
 So far, this just looks like an [Abstract Syntax Tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree). E-Graphs are distinguished from ASTs by the ability to represent **multiple equivalent expressions**. Suppose we wish to add the equivalence 4<span style="color:blue">=</span>2\*\*2 to our E-graph. We do this by adding a special *<span style="color:blue">equivalence edge</span>*
 
-![](../files/posts/2021-03-10-Denali-a-goal-directed-superoptimizer/egraph-rdi-times-4-plus-1-with-exp.svg?token=AIEHSZB7XJBWPFALUQVHFJDAGF4SC)
+![](/files/posts/2021-03-10-Denali-a-goal-directed-superoptimizer/egraph-rdi-times-4-plus-1-with-exp.svg?token=AIEHSZB7XJBWPFALUQVHFJDAGF4SC)
 
 Since there is no machine exponentiation instruction, this does not look useful at first. However, now we can add a further <span style="color:blue">equivalence edge</span> based on the fact that *%rdi << 2 <span style="color:blue">=</span> %rdi \* 2**2 <span style="color:blue">=</span> %rdi \* * 4*.
 
-![](../files/posts/2021-03-10-Denali-a-goal-directed-superoptimizer/egraph-rdi-times-4-plus1-with-shift.svg?token=AIEHSZBXN3ND7R2LHKI3VYTAGF6EU)
+![](/files/posts/2021-03-10-Denali-a-goal-directed-superoptimizer/egraph-rdi-times-4-plus1-with-shift.svg?token=AIEHSZBXN3ND7R2LHKI3VYTAGF6EU)
 
 Since E-Graphs represent **A=B** by keeping both **A** and **B** around, they can become quite massive.
 
