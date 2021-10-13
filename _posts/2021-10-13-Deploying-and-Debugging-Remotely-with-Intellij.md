@@ -20,14 +20,14 @@ Intellij has its own guides on these topics, check them out here:
 
 ## Introduction
 
-[Intellij IDEA](https://www.jetbrains.com/idea/) is an incredibly powerful IDE. If you're anything like me, it's become an essential component of any Java program you write. However, compiling and running large applications on my laptop gets frustratingly slow. Since I have access to bigger and better machines, I want to compile and run on those remote servers. However, I need several things before this actually improves my workflow
+[Intellij IDEA](https://www.jetbrains.com/idea/) is an incredibly powerful IDE. If you're anything like me, it's become an essential component of any Java program you write. However, compiling and running large applications on my laptop gets frustratingly slow. Since I have access to bigger and better machines, I want to compile and run on those remote servers. However, I need several things before this actually improves my workflow:
 
 1. Keeping the local and remote in sync should be easy *without* using git
 1. Debugging applications running on the remote should be push-button
 1. All file-editing should be performed locally (I want the power of Intellij without having to set up X-forwarding, etc.)
 
 (1) and (3) can be achieving using [*deployment*](#deployment): setting up a remote clone of a project that Intellij syncs in the background. (2) can be achieved using [remote debug](#remote-debug). 
-In the rest of the blog, I'll show you how to set this up using an example project. The example project is publicly availble at my github: **TODO**.
+In the rest of the blog, I'll show you how to set this up using an example project.
 
 ## Setup
 
@@ -39,9 +39,9 @@ I'll assume that your SSH key is located in `~/.ssh/id_rsa`. Password-based auth
 
 For this example, we'll start by making a new Java project using the [Maven](https://maven.apache.org/) build system.
 
-![](../files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/01-Intellij-Create-Project.png)
+![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/01-Intellij-Create-Project.png)
 
-![](../files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/02-Maven.png)
+![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/02-Maven.png)
 
 Now we're ready to set up for deployment!
 
