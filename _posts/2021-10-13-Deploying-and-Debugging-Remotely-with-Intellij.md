@@ -65,12 +65,12 @@ Then, enter the path into the "Root path" entry of your server.
 
 ![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/05-Set-Root.png)
 
-If you already have an SSH configuration setup on Intellij for your desired server, go ahead and select. Otherwise, let's set one up!
+If you already have an SSH configuration setup on Intellij for your desired server, go ahead and select it. Otherwise, let's set one up!
 Click the three dots next to SSH configuration to get started:
 
 ![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/06-Three-Dots.png)
 
-Enter the host, your remote username, and select your authentication status. I'm going to assume you're using a password-protected private key in `~/.ssh/id_rsa`. Only change the port from 22 (or set the local port) if you know what you're doing! 
+Enter the host, your remote username, and select your authentication type. I'm going to assume you're using a password-protected private key in `~/.ssh/id_rsa`. Only change the port from 22 (or set the local port) if you know what you're doing! 
 
 Once you're done, press "Test Connection" to make sure it works.
 
@@ -87,15 +87,15 @@ Finally, we need to set up the file mappings. Click on "Mappings", and copy the 
 Press OK, and now you're good to go!
 What exactly does that mean?
 
-1. Any file you save locally will be automatically uploaded to your remote
-2. You can upload, download, or sync any file or directory in you project by
-    * Right-clicking the file or directory
-    * Click "deployment"
-    * Select either upload, download, or sync
+* Any file you save locally will be automatically uploaded to your remote.
+* You can upload, download, or sync any file or directory in you project by
+    1. Right-clicking the file or directory
+    2. Clicking "deployment"
+    3. Selecting either upload, download, or sync
 
 Look over some options by going to `Tool` `>` `Deployment` `>` `Options`
 
-![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/10-Options)
+![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/10-Options.png)
 
 - [x] Delete target items when source ones do not exist
     - This is useful to avoid confusing errors where you've deleted on locally, but Intellij does not delete the remote. I'd recommend setting this as long as you're not using the remote to backup files.
