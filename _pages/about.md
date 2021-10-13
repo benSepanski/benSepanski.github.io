@@ -16,6 +16,14 @@ solve high-performance computing issues in the scientific domains.
 
 I finished a B.S. in Mathematics at [Baylor University](https://baylor.edu/math) in May, 2020.
 
+Current Research
+======================
+
+I've been working this past year to automate the implementation of certain concurrent programs
+from a declarative specification. My current project
+with [Dr. Işil Dillig](https://cs.utexas.edu/~isil), [Dr. James Bornholt](https://www.cs.utexas.edu/~bornholt/),
+and [Dr. Kostas Ferles](https://kferles.github.io/) is ongoing, but check back soon for updates!
+
 Undergraduate Research
 ======================
 
