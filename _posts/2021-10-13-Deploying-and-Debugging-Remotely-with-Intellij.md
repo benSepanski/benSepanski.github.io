@@ -66,12 +66,16 @@ Once you're done, press "Test Connection" to make sure it works.
 
 ![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/06-SSH-Config.png)
 
-Press OK, then make sure your remote is in bold on the left menu. If it is not, select it and press the check mark to make it the default configuration.
+You can set the "root" directory if you wish. This sets what Intellij perceives as the root
+directory of the remote server (not the root directory of your remote project, we'll set that later).
+If you do set the root, just remember that the file mappings are relative to the root you set.
+
+Once you're done, press OK and make sure your remote is in bold on the left menu. If it is not, select it and press the check mark to make it the default configuration.
 
 ![](/files/posts/2021-10-13-Deploying-and-Debugging-Remotely-with-Intellij/07-Set-Default.png)
 
 Finally, we need to set up the file mappings. 
-On your remote, pick some path where you want your remote to be rooted. I'm going to use `~/intellijRemotes/<projectName>`.
+On your remote, pick some path where you want your remote to be stored. I'm going to use `~/intellijRemotes/<projectName>`.
 Create that directory.
 
 ```bash
