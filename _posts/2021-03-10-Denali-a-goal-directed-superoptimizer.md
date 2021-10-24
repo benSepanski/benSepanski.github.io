@@ -44,7 +44,7 @@ Massalin's superoptimizer relies on brute-force search: enumerate candidate prog
 
 Denali users specify their desired program as a set of (memory location, expression to evaluate) pairs.  For instance, (*%rdi*, *2 * %rdi*) is the program which doubles the value of *%rdi*.
 
-Denali's algorithm only "enumerates" candidate programs which it can prove are equivalent to the desired program. For efficiency, it stores this enumeration in a compact graph structure called an [E-Graph](#E-Graphs), then searches the E-Graph using a SAT solver.
+Denali's algorithm only "enumerates" candidate programs which it can prove are equivalent to the desired program. For efficiency, it stores this enumeration in a compact graph structure called an [E-Graph](#e-graphs), then searches the E-Graph using a SAT solver.
 
 
 ### E-Graphs
