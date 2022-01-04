@@ -12,7 +12,7 @@ tags:
 
 In this blog post I will show you how to sync an [Intellij IDEA](https://www.jetbrains.com/idea/) project with a remote server (called *deploying* the project to a server), and how to debug remote runs of that project.
 
-** *EDIT Jan 3, 2022*: Note that this process is only available for the Intellij IDEA Ultimate edition, not the Community edition.**
+***EDIT Jan 3, 2022****: Note that this process is only available for the Intellij IDEA Ultimate edition, not the Community edition.*
 
 ## Related Guides
 
