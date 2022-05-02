@@ -17,7 +17,7 @@ A monitor is a widely-used concurrent programming abstraction that encapsulates 
 
 # Presentations
 
-*Upcoming:* Presentation at OOPSLA 22, visit the conference website for more info: https://2022.splashcon.org/track/splash-2022-oopsla
+*Upcoming:* Presentation at OOPSLA 22, visit the conference website for more info: [https://2022.splashcon.org/track/splash-2022-oopsla](https://2022.splashcon.org/track/splash-2022-oopsla)
 
 # Bibtex
 
