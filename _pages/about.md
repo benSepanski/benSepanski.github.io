@@ -19,10 +19,12 @@ I finished a B.S. in Mathematics at [Baylor University](https://baylor.edu/math)
 Current Research
 ======================
 
-I've been working this past year to automate the implementation of certain concurrent programs
-from a declarative specification. My current project
+I worked to automate the implementation of certain concurrent programs
+from a declarative specification
 with [Dr. Işil Dillig](https://cs.utexas.edu/~isil), [Dr. James Bornholt](https://www.cs.utexas.edu/~bornholt/),
-and [Dr. Kostas Ferles](https://kferles.github.io/) is ongoing, but check back soon for updates!
+and [Dr. Kostas Ferles](https://kferles.github.io/). Check out the paper [here](https://bensepanski.github.io/publication/2022-12-01-Synthesizing-fine-grained-synchronization-protocols-for-implicit-monitors)!
+
+I'm currently looking into automated approaches for GPU code generation. Check back for more updates!
 
 Undergraduate Research
 ======================
