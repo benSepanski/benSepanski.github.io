@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello all! I am a second-year Ph.D. student at the [Computer Science Department at UT Austin](https://cs.utexas.edu) studying
+Hello all! I am a second-year graduate student at the [Computer Science Department at UT Austin](https://cs.utexas.edu) studying
 in the [UToPiA group](https://utopia.cs.utexas.edu) under [Dr. Işil Dillig](https://cs.utexas.edu/~isil).
 I am also a second-year fellow of the [Department of Energy Computational Science Graduate Fellowship](https://krellinst.org/csgf).
 My research revolves around using program synthesis and verification problems to
