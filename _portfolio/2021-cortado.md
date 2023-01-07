@@ -1,6 +1,6 @@
 ---
 title: "Cortado"
-excerpt: "Automatic implicit monitor synchronization"
+excerpt: "Automatic implicit monitor synchronization <br/><img src='../files/portfolio/2021-cortado/fdg-example.pdf'>"
 collection: portfolio
 ---
 
