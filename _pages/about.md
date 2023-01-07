@@ -21,8 +21,6 @@ I finished a B.S. in Mathematics at [Baylor University](https://baylor.edu/math)
 Research
 ======================
 
-High Performance Computing
---------------------------
 
 Programming Languages
 ---------------------
@@ -30,9 +28,18 @@ Programming Languages
 I worked to automate the implementation of certain concurrent programs
 from a declarative specification
 with [Dr. Işil Dillig](https://cs.utexas.edu/~isil), [Dr. James Bornholt](https://www.cs.utexas.edu/~bornholt/),
-and [Dr. Kostas Ferles](https://kferles.github.io/). Check out the paper [here](https://bensepanski.github.io/publication/2022-12-01-Synthesizing-fine-grained-synchronization-protocols-for-implicit-monitors)!
+and [Dr. Kostas Ferles](https://kferles.github.io/). 
 
-I'm currently looking into automated approaches for GPU code generation. Check back for more updates!
+Check out the paper [here](../publication/2022-12-01-Synthesizing-fine-grained-synchronization-protocols-for-implicit-monitors)!
+
+High Performance Computing
+--------------------------
+
+I worked with [Dr. Samuel Williams](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/members/staff/samuel-williams/) and [Dr. Hans Johansen](https://crd.lbl.gov/divisions/amcr/computational-science-dept/anag/about/staff-and-postdocs/hans-johansen/)
+in [CRD at Lawrence Berkeley National Labs](https://crd.lbl.gov) in the summer
+of 2021 (and throughout the year) on the [Bricks project](https://github.com/CtopCsUtahEdu/bricklib) to help transform data layout (instead of code) for high-performance codes. 
+
+Check out the paper [here](../publication/2022-11-13-Maximizing-performance-through-memory-hierarchy-driven-data-layout-transformations).
 
 Scientific Computing
 --------------------
@@ -47,3 +54,5 @@ use [fast multipole methods](https://www.en.wikipedia.org/wiki/Fast_multipole_me
 to approximate boundary conditions at infinity on a truncated domain
 (see, for example, the [Sommerfeld radiation condition](https://www.en.wikipedia.org/wiki/Sommerfeld_radiation_condition)
  for the [Helmholtz equation](https://www.en.wikipedia.org/wiki/Helmholtz_equation)).
+
+Check out the paper [here](../publication/2021-05-10-Finite-elements-for-Helmholtz-equations-with-a-nonlocal-boundary-condition).
