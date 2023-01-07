@@ -88,7 +88,7 @@ author:
   avatar           : "Sepanski_2019_reduce_size.jpg"
   bio              : "I am an SSE at <a href=\"https://veridise.com\">Veridise</a> working to secure smart contracts on the Vanguard team"
   location         : #
-  employer         : "https://veridise.com"
+  employer         : # "<a href=\"https://veridise.com\">Veridise</a>"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=5GmcgnUAAAAJ&hl=en"
   email            : "ben_sepanski@utexas.edu"
