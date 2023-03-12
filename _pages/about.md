@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an SSE at [Veridise](https://veridise.com) working on the Vanguard
+Hello! I am a Research Scientist/SE/Auditor at [Veridise](https://veridise.com) working on the Vanguard
 team to help secure [smart contracts](https://en.wikipedia.org/wiki/Smart_contract)
-focusing on [zero knowledge](https://en.wikipedia.org/wiki/Zero-knowledge_proof) proofs.
+and [zero knowledge](https://en.wikipedia.org/wiki/Zero-knowledge_proof) circuits.
+I also perform audits of zero knowledge circuits and smart circuits with the Veridise team,
+come check us out if you want an audit!
 
 I completed a M.S. in Computer Science at the [University of Texas at Austin](https://www.cs.utexas.edu) in December of 2022 studying Programming Languages in the [UToPiA group](https://utopia.cs.utexas.edu) under [Dr. Işil Dillig](https://cs.utexas.edu/~isil).
 My time at UT was funded by the [Department of Energy Computational Science Graduate Fellowship](https://krellinst.org/csgf), where I was a 2020 fellow.
