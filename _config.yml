@@ -86,12 +86,12 @@ analytics:
 author:
   name             : "Benjamin Sepanski"
   avatar           : "Sepanski_2019_reduce_size.jpg"
-  bio              : "I am an Research Scientist/SE/Auditor at <a href=\"https://veridise.com\">Veridise</a> working to secure smart contracts and zk circuits on the Vanguard team"
+  bio              : "I manage auditing (and audit) at <a href=\"https://veridise.com\">Veridise</a>, where we work to secure smart contracts and zk circuits"
   location         : #
   employer         : # "<a href=\"https://veridise.com\">Veridise</a>"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=5GmcgnUAAAAJ&hl=en"
-  email            : "ben_sepanski@utexas.edu"
+  email            : "ben.sepanski@veridise.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
