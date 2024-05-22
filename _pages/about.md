@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am the VP of Auditing at [Veridise](https://veridise.com).
+Hello! I am the CSO at [Veridise](https://veridise.com).
 We perform audits of [zero knowledge](https://en.wikipedia.org/wiki/Zero-knowledge_proof) (ZK) circuits and [smart contracts](https://en.wikipedia.org/wiki/Smart_contract),
 come check us out if you want an audit!
+
+In my current role I handle timeline estimation, scheduling, and general audit management at Veridise. As I have time, I also perform audits!
 
 I have audited [AMM](https://chain.link/education-hub/what-is-an-automated-market-maker-amm)s, vaults,
 reward contracts, and more in EVM chains and NEAR.
 At Veridise, I have also gotten to work in many ZK applications,
 including identity systems, spam prevention, L1 blockchains, recursive provers,
 trusted machine learning, and more! This includes work in [halo2](https://zcash.github.io/halo2/),
-[arkworks](https://github.com/arkworks-rs), [gnark](https://github.com/Consensys/gnark), and [circom](https://docs.circom.io).
-When I have time, I work on the Vanguard
-team to help secure contracts
-and circuits programmatically.
+[arkworks](https://github.com/arkworks-rs), [gnark](https://github.com/Consensys/gnark), [o1js](https://docs.minaprotocol.com/zkapps/o1js), and [circom](https://docs.circom.io).
+I've also reviewed core key management infrastructure built using [TEE](https://en.wikipedia.org/wiki/Trusted_execution_environment)s in [AWS](https://en.wikipedia.org/wiki/Amazon_Web_Services).
+
+I used to work on the Vanguard team to help secure contracts and circuits programmatically.
 
 I completed a M.S. in Computer Science at the [University of Texas at Austin](https://www.cs.utexas.edu) in December of 2022 studying Programming Languages in the [UToPiA group](https://utopia.cs.utexas.edu) under [Dr. Işil Dillig](https://cs.utexas.edu/~isil).
 My time at UT was funded by the [Department of Energy Computational Science Graduate Fellowship](https://krellinst.org/csgf), where I was a [2020 fellow](https://www.krellinst.org/csgf/alumni/profile?n=sepanski2020).
