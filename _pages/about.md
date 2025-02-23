@@ -30,7 +30,7 @@ While at UT, I researched program synthesis, verification, and analysis.
 
 I finished a B.S. in Mathematics at [Baylor University](https://baylor.edu/math) in May, 2020.
 
-Research
+A Past Life: Research
 ======================
 
 
@@ -68,3 +68,10 @@ to approximate boundary conditions at infinity on a truncated domain
  for the [Helmholtz equation](https://www.en.wikipedia.org/wiki/Helmholtz_equation)).
 
 Check out the paper [here](../publication/2021-05-10-Finite-elements-for-Helmholtz-equations-with-a-nonlocal-boundary-condition).
+
+Other Things About Me
+=====================
+I like to juggle, run, read fantasy, sci-fi, history, philosophy, and
+anything else that is fun to talk about. I DM Dungeons & Dragons, play
+tennis, love comedy, and spent a lot of my time with my two cats Iris and
+Hermes!
