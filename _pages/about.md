@@ -71,7 +71,8 @@ Check out the paper [here](../publication/2021-05-10-Finite-elements-for-Helmhol
 
 Other Things About Me
 =====================
-I like to juggle, run, read fantasy, sci-fi, history, philosophy, and
-anything else that is fun to talk about. I DM Dungeons & Dragons, play
-tennis, love comedy, and spent a lot of my time with my two cats Iris and
-Hermes!
+I like to run, read fantasy, sci-fi, history, philosophy, and
+anything else that is fun to talk about! I sometimes play Dungeons & Dragons,
+regularly play tennis, juggle when I can,
+love comedy, and spend a lot of my time with my two cats Iris and
+Hermes.
