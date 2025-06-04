@@ -16,7 +16,7 @@ performed which are available on Veridise's website.
 - [Range Solidity vaults](https://veridise.com/wp-content/uploads/2023/10/VAR-range-230904-Range-GHO-Vault-3.pdf): ERC-4626 vaults in Solidity
 - [Rate Limiting Nullifier from PSE](https://veridise.com/wp-content/uploads/2023/09/VAR-RLN.pdf): Privacy-preserving rate-limiting in circom
 - [GoodEntry](https://veridise.com/audits-archive/company/good-entry-labs/good-entry-gev2-2023-11-30/): Managed vaults in Solidity
-- [Cata Labs: Catalyst](https://veridise.com/audits-archive/company/cata-labs/catalyst-2024-01-18/): A cross-chain custom AMM
+- [Cata Labs: Catalyst](https://veridise.com/wp-content/uploads/2024/05/VAR_Catalyst.pdf): A cross-chain custom AMM
 - [Manta Network](https://veridise.com/audits-archive/company/manta-network/manta-chain-2023-09-01/): ZK-circuits for an L2
 - [Tonic](https://veridise.com/audits-archive/company/tonic-foundation/tonic-2023-02-13/): An orderbook written for the NEAR blockchain
 
