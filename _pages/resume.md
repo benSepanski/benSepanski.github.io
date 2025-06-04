@@ -8,4 +8,4 @@ redirect_from:
   - /vita
 ---
 
-Click [here](../files/sepanski-benjamin-resume.pdf) to download my resume.
+Click [here](../files/sepanski-benjamin-resume-full.pdf) to download my resume.
