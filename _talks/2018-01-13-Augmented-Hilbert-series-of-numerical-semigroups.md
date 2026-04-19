@@ -8,7 +8,7 @@ date: 2018-01-13
 location: "San Diego, California"
 ---
 
-Presented my research from the [2017 San Diego State University Research Experience for Undergraduates](http://www.sci.sdsu.edu/math-reu/index.html) during the [AMS-MAA-SIAM Special Session on Research in Mathematics by Undergraduates and Students in Post-Baccalaureate Programs](https://www.jointmathematicsmeetings.org//meetings/national/jmm2018/2197_program_ss19.html)  at the [2018 Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2018/2197_intro) in San Diego, California. This talk was funded by an [MAA Travel Grant for Undergraduates](https://www.maa.org/programs/maa-grants) and by the [Mathematics Department at Baylor University](https://www.baylor.edu/math/).
+Presented at the AMS-MAA-SIAM Special Session on Undergraduate Research at the [2018 Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org/meetings/national/jmm2018/2197_intro) in San Diego, California, funded by an [MAA Travel Grant for Undergraduates](https://www.maa.org/programs/maa-grants). This was joint work with Christopher O'Neill, Jeske Glenn, and Vadim Ponomarenko from the [2017 SDSU REU](http://www.sci.sdsu.edu/math-reu/index.html), presenting new explicit formulas for augmented Hilbert series that measure factorization lengths in numerical semigroups. A weighted Euler characteristic of an associated simplicial complex is a key ingredient in several of the formulas.
 
 # Abstract
 

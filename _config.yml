@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Benjamin Sepanski"
 title_separator          : "-"
 name                     : &name "Benjamin Sepanski"
-description              : &description "SSE at Veridise"
+description              : &description "Staff Compiler Engineer at Mythic"
 url                      : https://benSepanski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "benSepanski/benSepanski.github.io"
@@ -86,12 +86,12 @@ analytics:
 author:
   name             : "Benjamin Sepanski"
   avatar           : "Sepanski_2019_reduce_size.jpg"
-  bio              : "I manage auditing (and audit) at <a href=\"https://veridise.com\">Veridise</a>, where we work to secure smart contracts and zk circuits"
+  bio              : "I am a Staff Compiler Engineer at <a href=\"https://mythic.ai\">Mythic</a>, where I work on compilers."
   location         : #
   employer         : # "<a href=\"https://veridise.com\">Veridise</a>"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=5GmcgnUAAAAJ&hl=en"
-  email            : "ben.sepanski@veridise.com"
+  email            : "ben.sepanski@mythic.ai"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

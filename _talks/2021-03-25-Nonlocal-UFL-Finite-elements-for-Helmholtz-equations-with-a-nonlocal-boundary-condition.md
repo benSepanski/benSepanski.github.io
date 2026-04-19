@@ -8,9 +8,7 @@ date: 2021-03-25
 location: "Virtual Presentation through the University of Cambridge in Cambridge, England"
 ---
 
-Presentation of my undergraduate research at the [FEniCS 2021 Conference](https://mscroggs.github.io/fenics2021).
-
-Slides, abstract, and presentation time linked [here](https://mscroggs.github.io/fenics2021/talks/sepanski.html). Presented my work as an undergraduate at the [Mathematics Department at Baylor University](https://www.baylor.edu/math/).  This work was joint with [Dr. Robert Kirby](https://sites.baylor.edu/robert_kirby/) at the Mathematics Department of Baylor University and [Dr. Andreas Kl&ouml;ckner](https://mathema.tician.de/aboutme/).
+Presented at the [FEniCS 2021 Conference](https://mscroggs.github.io/fenics2021) ([slides, abstract, and recording](https://mscroggs.github.io/fenics2021/talks/sepanski.html)), joint work with [Dr. Robert Kirby](https://sites.baylor.edu/robert_kirby/) and [Dr. Andreas Klöckner](https://mathema.tician.de/aboutme/). This work introduces nonlocal boundary conditions for exterior Helmholtz problems that are exact (rather than approximate), relying on layer potentials evaluated via fast multipole methods. Integration of the layer potential library [pytential](https://documen.tician.de/pytential) with [Firedrake](https://www.firedrakeproject.org) allows these boundary conditions to be expressed naturally in UFL.
 
 # Abstract
 

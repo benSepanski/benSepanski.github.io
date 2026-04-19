@@ -300,10 +300,7 @@ We hope the examples and strategies shared in this blog provide a solid foundati
 Author
 ======
 
-Ben Sepanski, Chief Security Officer at Veridise
-
-Want to learn more about Veridise?
-==================================
+Ben Sepanski, formerly Chief Security Officer at Veridise
 
 [Twitter](https://twitter.com/VeridiseInc) | [LinkedIn](https://www.linkedin.com/company/veridise/) | [Github](https://github.com/Veridise) | [Request Audit](https://veridise.com/request-audit/)
 
@@ -326,10 +323,6 @@ Published in Veridise
 
 -[Last published 4 days ago](https://medium.com/veridise/mastering-o1js-on-mina-four-key-strategies-for-secure-development-fff3a3f4f6d1?source=post_page---post_publication_info--fff3a3f4f6d1---------------------------------------)
 
-Our mission in to harden blockchain security with formal methods. We write about blockchain security, zero-knowledge proofs, and our bug discoveries.
-
-Follow
-
 [
 
 ![Veridise](https://miro.medium.com/v2/resize:fill:96:96/1*LwZDepFjUwzEVNUrgIFXeA.png)
@@ -346,10 +339,6 @@ Written by Veridise
 [277 Followers](https://medium.com/@veridise/followers?source=post_page---post_author_info--fff3a3f4f6d1---------------------------------------)
 
 -[3 Following](https://medium.com/@veridise/following?source=post_page---post_author_info--fff3a3f4f6d1---------------------------------------)
-
-Hardening blockchain security with formal methods. We write about blockchain & zero-knowledge proof security. Contact us for industry-leading security audits.
-
-Follow
 
 No responses yet
 ----------------
@@ -1250,6 +1239,6 @@ Full audit report
 Download the full o1js [security audit report here.](https://veridise.com/audits-archive/company/o1-labs/o1-labs-o1js-2024-08-27/)
 
 **Author**:\
-Ben Sepanski, Chief Security Officer at Veridise
+Ben Sepanski, formerly Chief Security Officer at Veridise
 
 Editor: Mikko Ikola, VP of Marketing

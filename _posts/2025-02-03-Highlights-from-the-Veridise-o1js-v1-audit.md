@@ -309,6 +309,6 @@ Full audit report
 Download the full o1js [security audit report here.](https://veridise.com/audits-archive/company/o1-labs/o1-labs-o1js-2024-08-27/)
 
 **Author**:\
-Ben Sepanski, Chief Security Officer at Veridise
+Ben Sepanski, formerly Chief Security Officer at Veridise
 
 Editor: Mikko Ikola, VP of Marketing
